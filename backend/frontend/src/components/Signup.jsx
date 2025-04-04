@@ -131,7 +131,7 @@ const Signup = () => {
                                 Login
                             </Link>
                         </p>
-                        <input type="submit" value="Signup" className='text-white bg-green px-4 py-1 cursor-pointer rounded-lg' />
+                        <input type="submit" value="Signup" className='text-white bg-green-500 px-4 py-1 cursor-pointer rounded-lg' />
                     </div>
 
 
